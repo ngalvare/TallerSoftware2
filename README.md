@@ -1,2 +1,1 @@
-# TallerSoftware2
-Taller
+# CONTINUOUS INTEGRATION WORKSHOP 
